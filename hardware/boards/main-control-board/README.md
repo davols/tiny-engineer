@@ -7,7 +7,7 @@ This board drives the robot's servos and speaker. Power and USB data come in on 
 - **Built:** not manufactured
 - **Tested:** not tested
 
-![Main Control Board](./main-control-board-rev-2-preview.jpg)
+![Main Control Board](./main-control-board-rev-3-preview.jpg)
 
 ## Soldered on the board
 
