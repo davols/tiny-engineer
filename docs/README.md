@@ -8,6 +8,7 @@ Pick a path. Depth lives in the linked pages.
 | --- | --- |
 | **Build from scratch** (canonical checklist) | [getting-started.md](getting-started.md) |
 | **Buy parts** (main control board + cart) | [shopping.md](shopping.md) |
+| **Source non-PCB hardware on AliExpress** | [hardware/bom.md](hardware/bom.md) — electronics, cables, power, and fasteners |
 | **Bridge into hardware/electronics** (software engineer background) | [hardware-for-software-engineers/README.md](hardware-for-software-engineers/README.md) — optional parallel reading; safety card lives on the checklist |
 | **Assemble printed parts** (mechanical procedure) | [3d/assembly.md](3d/assembly.md) |
 | **Flash firmware** | **[Web flash](https://jamro.github.io/tiny-engineer/flash/)** (default) · [flash.md](flash.md) (PlatformIO / mods / OTA) |
