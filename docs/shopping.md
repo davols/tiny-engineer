@@ -2,6 +2,8 @@
 
 Buy this before you print or connect. Electrical spec (voltages, limits, pin notes): [hardware/components.md](hardware/components.md). Screw lengths in assembly steps: [3d_models/README.md → Screws](../3d_models/README.md#screws). Build order: [getting-started.md](getting-started.md).
 
+AliExpress sourcing: [hardware BOM (excluding the PCB)](hardware/bom.md) — quantities, buying specs, and search links for the plug-in electronics, power, cables, and fasteners.
+
 ## Servo size (pick first)
 
 > **First build:** buy **five Tower Pro SG90** (or equivalent 9 g analog micros). Print [`3d_models/parts/sg90/`](../3d_models/parts/sg90/3mf/). Do **not** open Fusion.
